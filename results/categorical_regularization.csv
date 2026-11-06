@@ -1,0 +1,4 @@
+categorical regularization,rounds,valid MAE (Oct-Dec 2024),test MAE (2025)
+default,86,8.14521961006363,10.792723373346105
+"cat_smooth=200, cat_l2=25",103,8.100535428783225,10.860960450827683
+"cat_smooth=500, cat_l2=50, min_group=500",121,8.166508749530157,10.90705849796584
